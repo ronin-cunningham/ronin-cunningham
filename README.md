@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About me
-A Software Engineer with a passion for beautiful iOS apps :sparkles:
+### A Software Engineer with a passion for beautiful iOS apps :sparkles:
