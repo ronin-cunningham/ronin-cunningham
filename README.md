@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ronin-cunningham/ronin-cunningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-A Software Engineer with a passion for beautiful iOS apps
+### About me
+A Software Engineer with a passion for beautiful iOS apps :sparkles:
