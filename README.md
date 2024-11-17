@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Visit https://ronincunningham.com to see my iOS apps :sparkles:
+### Visit ronincunningham.com to see my iOS apps :sparkles:
 ### Check out the repos below for other random projects
